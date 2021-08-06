@@ -14,8 +14,8 @@ used iphone shortcuts app to get access to raspi through ssh, and run python fil
 for input '0', turn AC off, '1' for turn AC on, and '2' for set AC lower temperature
 # Requirements
 - software requirements
- - python 3
- - serial
+  - python 3
+  - serial
 - hardware requirements
- - raspberry pi
- - arduino
+  - raspberry pi
+  - arduino
